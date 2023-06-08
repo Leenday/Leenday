@@ -21,21 +21,23 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-<img alt="JavaScript" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
-<img alt="VSCode" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" />
-<img alt="NeoVim" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/neovim" />
-<img alt="Ruby" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/ruby" />
-<img alt="Ruby On Rails" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/rubyonrails" />
-<img alt="Sinatra" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/rubysinatra" />
-<img alt="Gems" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/rubygems" />
-<img alt="Rubocop" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/rubocop" />
-<img alt="Github Actions" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/githubactions" />
-<img alt="React" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/react" />
-<img alt="Docker" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/docker" />
-<img alt="Redux" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/redux" />
-<img alt="Redis" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/redis" />
-<img alt="Jest" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/jest" />
-<img alt="ESLint" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/eslint" />
+<div style="margin-top:1rem;">
+    <img alt="VSCode" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" />
+    <img alt="NeoVim" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/neovim" />
+    <img alt="Ruby" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/ruby" />
+    <img alt="Ruby On Rails" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/rubyonrails" />
+    <img alt="Sinatra" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/rubysinatra" />
+    <img alt="Gems" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/rubygems" />
+    <img alt="Rubocop" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/rubocop" />
+    <img alt="Docker" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/docker" />
+    <img alt="JavaScript" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
+    <img alt="React" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/react" />
+    <img alt="Redux" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/redux" />
+    <img alt="Redis" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/redis" />
+    <img alt="Jest" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/jest" />
+    <img alt="ESLint" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/eslint" />
+    <img alt="Github Actions" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/githubactions" />
+</div>
 
 ---
 
