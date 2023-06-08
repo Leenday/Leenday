@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 [![Codewars](https://github.r2v.ch/codewars?user=Leenday&top_languages=true&theme=gradient_purple_dark)](https://www.codewars.com/users/Leenday)
 
-![telegram](https://t.me/L33nday)
-![linkedin](https://www.linkedin.com/in/denis-gorshkov-66156a18a/)
-![gmail](mailto:iammilagre@gmail.com)
+[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/L33nday)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-gorshkov-66156a18a/)
+[![mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iammilagre@gmail.com)
