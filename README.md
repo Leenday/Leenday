@@ -21,12 +21,21 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-<code><img align="left" alt="Visual Studio Code" width="27px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:11px;" /></code>
-<code><img align="left" alt="Neovim" width="27px" src="https://cdn.simpleicons.org/neovim" style="padding-right:11px;" /></code>
-<code><img align="left" alt="Neovim" width="27px" src="https://cdn.simpleicons.org/ruby" style="padding-right:11px;" /></code>
-
-<br />
-<br />
+<img alt="JavaScript" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
+<img alt="VSCode" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" />
+<img alt="NeoVim" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/neovim" />
+<img alt="Ruby" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/ruby" />
+<img alt="Ruby On Rails" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/rubyonrails" />
+<img alt="Sinatra" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/rubysinatra" />
+<img alt="Gems" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/rubygems" />
+<img alt="Rubocop" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/rubocop" />
+<img alt="Github Actions" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/githubactions" />
+<img alt="React" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/react" />
+<img alt="Docker" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/docker" />
+<img alt="Redux" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/redux" />
+<img alt="Redis" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/redis" />
+<img alt="Jest" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/jest" />
+<img alt="ESLint" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/eslint" />
 
 ---
 
