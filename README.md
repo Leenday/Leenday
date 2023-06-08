@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 
 <code><img align="left" alt="Visual Studio Code" width="27px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:11px;" /></code>
+<code><img align="left" alt="Neovim" width="27px" src="https://cdn.simpleicons.org/neovim" style="padding-right:11px;" /></code>
+<code><img align="left" alt="Neovim" width="27px" src="https://cdn.simpleicons.org/ruby" style="padding-right:11px;" /></code>
 
 <br />
 <br />
