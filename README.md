@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Codewars](https://github.r2v.ch/codewars?user=Leenday&top_languages=true&hide_clan=true&theme=gradient_purple_dark)](https://www.codewars.com/users/Leenday)
+<p align="center" >
+    [![Codewars](https://github.r2v.ch/codewars?user=Leenday&top_languages=true&hide_clan=true&theme=gradient_purple_dark)](https://www.codewars.com/users/Leenday)
+</p>
 
 ---
 
