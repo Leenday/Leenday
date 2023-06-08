@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Codewars](https://github.r2v.ch/codewars?user=Leenday&top_languages=true&theme=gradient_purple_dark_by_level)(https://www.codewars.com/users/Leenday)]
+[![Codewars](https://github.r2v.ch/codewars?user=Leenday&top_languages=true&theme=gradient_purple_dark_by_level)](https://www.codewars.com/users/Leenday)
