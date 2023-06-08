@@ -1,4 +1,4 @@
-### Hi there 👋
+### Greetings 👋
 
 <!--
 **Leenday/Leenday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Codewars](https://github.r2v.ch/codewars?user=Leenday&top_languages=true&theme=gradient_purple_dark)](https://www.codewars.com/users/Leenday)
+[![Codewars](https://github.r2v.ch/codewars?user=Leenday&top_languages=true&hide_clan=true&theme=gradient_purple_dark)](https://www.codewars.com/users/Leenday)
+
+---
+
+### Languages and Tools:
+
+<code><img align="left" alt="Visual Studio Code" width="27px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:11px;" /></code>
+
+<br />
+<br />
+
+---
+
+### Connect with me:
 
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/L33nday)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-gorshkov-66156a18a/)
