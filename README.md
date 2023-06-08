@@ -1,4 +1,5 @@
-### Greetings 👋
+<h1 align="center" >Greetings, I'm Den, a software engineer 👋</h1>
+
 
 <!--
 **Leenday/Leenday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
