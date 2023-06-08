@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![Codewars](https://github.r2v.ch/codewars?user=Leenday&top_languages=true&theme=gradient_purple_dark)](https://www.codewars.com/users/Leenday)
+
+![telegram](https://t.me/L33nday)
+![linkedin](https://www.linkedin.com/in/denis-gorshkov-66156a18a/)
+![gmail](mailto:iammilagre@gmail.com)
