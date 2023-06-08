@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <p align="center" >
-    [![Codewars](https://github.r2v.ch/codewars?user=Leenday&top_languages=true&hide_clan=true&theme=gradient_purple_dark)](https://www.codewars.com/users/Leenday)
+ <a href="https://www.codewars.com/users/Leenday">
+   <img src="https://github.r2v.ch/codewars?user=Leenday&top_languages=true&hide_clan=true&theme=gradient_purple_dark" />
+ </a>
 </p>
 
 ---
