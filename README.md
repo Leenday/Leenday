@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 
 <div style="margin-top:1rem;">
-    <img alt="VSCode" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" />
     <img alt="NeoVim" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/neovim" />
     <img alt="Ruby" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/ruby" />
     <img alt="Ruby On Rails" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/rubyonrails" />
@@ -49,5 +48,5 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/L33nday)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-gorshkov-66156a18a/)
-[![mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iammilagre@gmail.com)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leenday)
+[![mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gorshkof.denis@gmail.com)
